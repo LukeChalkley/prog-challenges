@@ -3,6 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CtCI", "CtCI", "{24607A99-2720-4F8F-9D84-CF66115F7588}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{7F2318AD-3E23-404A-9805-4D07D3B3271C}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeCode", "ChallengeCode\ChallengeCode.csproj", "{03A694E6-452E-44DD-B779-87C19736196A}"
 EndProject
